@@ -1,0 +1,5 @@
+2 brown
+4 black
+6 white
+8 transparent
+10 colour
